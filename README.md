@@ -1,4 +1,4 @@
-# Hi, I'm Kouta 👋
+# 👋
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ohikouta&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true)
 
